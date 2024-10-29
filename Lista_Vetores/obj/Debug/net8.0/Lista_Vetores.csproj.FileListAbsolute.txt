@@ -1,0 +1,14 @@
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.AssemblyInfo.cs
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\bin\Debug\net8.0\Lista_Vetores.exe
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\bin\Debug\net8.0\Lista_Vetores.deps.json
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\bin\Debug\net8.0\Lista_Vetores.runtimeconfig.json
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\bin\Debug\net8.0\Lista_Vetores.dll
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\bin\Debug\net8.0\Lista_Vetores.pdb
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.dll
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\refint\Lista_Vetores.dll
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.pdb
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\Lista_Vetores.genruntimeconfig.cache
+C:\Users\cesar\source\repos\Lista_Vetores\Lista_Vetores\obj\Debug\net8.0\ref\Lista_Vetores.dll
